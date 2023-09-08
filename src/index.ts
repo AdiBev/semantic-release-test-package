@@ -1,4 +1,4 @@
-type GreetingType = "Hello" | "Hi" | "Hola"
+type GreetingType = "Hello" | "Hi"
 
 const saySomething = (param: GreetingType) => {
   console.log(`${param} World!`)
