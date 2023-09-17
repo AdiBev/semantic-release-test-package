@@ -7,3 +7,7 @@ This repository was created to experiment with semantic-release package, so that
 - Npm package version upgrade process
 - `package.json`, `package-lock.json` file version updated and comitted in main branch
 - Update Changelog 
+
+
+## Changelog
+Here is the [Changelog](./docs/CHANGELOG.md)
