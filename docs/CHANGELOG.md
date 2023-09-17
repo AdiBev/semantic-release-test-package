@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/AdiBev/semantic-release-test-package/compare/v2.0.0...v2.0.1) (2023-09-17)
+
+
+### Bug Fixes
+
+* **package.json:** rearrange semantic-release plugins to update package files version ([a206b72](https://github.com/AdiBev/semantic-release-test-package/commit/a206b72d23c6158ec6e9fdd70e93013b5a0ede8a))
+
 # [2.0.0](https://github.com/AdiBev/semantic-release-test-package/compare/v1.4.0...v2.0.0) (2023-09-17)
 
 
