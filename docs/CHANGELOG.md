@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/AdiBev/semantic-release-test-package/compare/v2.0.2...v2.0.3) (2023-09-17)
+
+
+### Bug Fixes
+
+* **package.json:** fix git asset path ([39d7fa4](https://github.com/AdiBev/semantic-release-test-package/commit/39d7fa4835c219a7feef812456cbecc1767f1eb4))
+
 ## [2.0.2](https://github.com/AdiBev/semantic-release-test-package/compare/v2.0.1...v2.0.2) (2023-09-17)
 
 
