@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/AdiBev/semantic-release-test-package/compare/v2.0.1...v2.0.2) (2023-09-17)
+
+
+### Bug Fixes
+
+* **package.json:** add package files as git assets ([26215d3](https://github.com/AdiBev/semantic-release-test-package/commit/26215d31fb80ab308d2fc426263d8004815ce1f1))
+
 ## [2.0.1](https://github.com/AdiBev/semantic-release-test-package/compare/v2.0.0...v2.0.1) (2023-09-17)
 
 
