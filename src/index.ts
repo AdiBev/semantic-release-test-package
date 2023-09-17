@@ -6,4 +6,6 @@ const saySomething = (param: GreetingType) => {
 
 const addAnother = () => console.log("hello")
 
-export { saySomething, addAnother }
+const addAnother1 = () => console.log("hello")
+
+export { saySomething, addAnother, addAnother1 }
